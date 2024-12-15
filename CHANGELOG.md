@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-15)
+
+<section class="features">
+
+### Features
+
+-   [`0e2d82a`](https://github.com/stdlib-js/stdlib/commit/0e2d82a0e55b279370365e56b765922321a69e05) - add C implementation for `stats/base/dists/poisson/variance` [(#3933)](https://github.com/stdlib-js/stdlib/pull/3933)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3797](https://github.com/stdlib-js/stdlib/issues/3797)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`0e2d82a`](https://github.com/stdlib-js/stdlib/commit/0e2d82a0e55b279370365e56b765922321a69e05) - **feat:** add C implementation for `stats/base/dists/poisson/variance` [(#3933)](https://github.com/stdlib-js/stdlib/pull/3933) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Aayush Khanna
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
