@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-23)
+## Unreleased (2025-02-08)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3797](https://github.com/stdlib-js/stdlib/issues/3797)
+[#3797](https://github.com/stdlib-js/stdlib/issues/3797), [#4984](https://github.com/stdlib-js/stdlib/issues/4984)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`28b78a0`](https://github.com/stdlib-js/stdlib/commit/28b78a0590907a6757bc6fd4c9e88d9109280950) - **bench:** refactor random number generation in `stats/base/dists/poisson` [(#5106)](https://github.com/stdlib-js/stdlib/pull/5106) _(by pranav-1720)_
 -   [`0e2d82a`](https://github.com/stdlib-js/stdlib/commit/0e2d82a0e55b279370365e56b765922321a69e05) - **feat:** add C implementation for `stats/base/dists/poisson/variance` [(#3933)](https://github.com/stdlib-js/stdlib/pull/3933) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
 
 </details>
@@ -46,10 +47,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Philipp Burckhardt
+-   pranav-1720
 
 </section>
 
